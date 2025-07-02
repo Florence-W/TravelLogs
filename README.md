@@ -68,7 +68,7 @@ const travelMusic = {
    git clone https://github.com/Florence-W/TravelLogs.git
    ```
 
-[➡️ 立即体验](https://florence-w.github.io/TravelLogs/)
+[➡️ 立即体验](https://Florence-w.github.io/TravelLogs/)
 
 2. **直接运行**
    - 打开`index.html`文件即可
